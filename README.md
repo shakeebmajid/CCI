@@ -10,7 +10,7 @@ Chapter 1  |<ul><li> - [X] </li></ul>| <ul><li> - [X] </li></ul> |<ul><li> - [ ]
 Chapter 2  |<ul><li> - [X] </li></ul>| <ul><li> - [X] </li></ul> |<ul><li> - [ ] </li></ul>      |<ul><li> - [ ] </li></ul>       
 Chapter 3  |<ul><li> - [X] </li></ul>| <ul><li> - [X] </li></ul> |<ul><li> - [ ] </li></ul>      |<ul><li> - [ ] </li></ul>       
 Chapter 4  |<ul><li> - [X] </li></ul>| <ul><li> - [X] </li></ul> |<ul><li> - [ ] </li></ul>      |<ul><li> - [ ] </li></ul>       
-Chapter 5  |<ul><li> - [X] </li></ul>| <ul><li> - [ ] </li></ul> |<ul><li> - [ ] </li></ul>      |<ul><li> - [ ] </li></ul>       
+Chapter 5  |<ul><li> - [X] </li></ul>| <ul><li> - [X] </li></ul> |<ul><li> - [ ] </li></ul>      |<ul><li> - [ ] </li></ul>       
 Chapter 6  |<ul><li> - [ ] </li></ul>| <ul><li> - [ ] </li></ul> |<ul><li> - [ ] </li></ul>      |<ul><li> - [ ] </li></ul>       
 Chapter 7  |<ul><li> - [ ] </li></ul>| <ul><li> - [ ] </li></ul> |<ul><li> - [ ] </li></ul>      |<ul><li> - [ ] </li></ul>       
 Chapter 8  |<ul><li> - [ ] </li></ul>| <ul><li> - [ ] </li></ul> |<ul><li> - [ ] </li></ul>      |<ul><li> - [ ] </li></ul>       
