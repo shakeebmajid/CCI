@@ -32,3 +32,18 @@ print "recursive multiply of -1 * 60: ", recursiveMultiply(-1, 60)
 print "recursive multiply of 1 * -60: ", recursiveMultiply(1, -60)
 print "recursive multiply of -1 * -60: ", recursiveMultiply(-1, -60)
 print "recursive multiply of 0 * -60: ", recursiveMultiply(0, -60)
+
+print """hi \n yo this is trips"""
+print r'hi \n yo this is r'
+
+if '':
+    print "this was ran"
+
+if -1:
+    print "this -1 was ran"
+    print "this too"
+
+x = [1, 2]
+y = x
+y.append(3)
+print x
